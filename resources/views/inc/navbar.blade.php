@@ -18,11 +18,11 @@
                     <!-- Nav Start -->
                     <div class="classynav">
                         <ul>
-                            <li><a href="#">Pages</a>
+                            {{-- <li><a href="#">Pages</a>
                                 <ul class="dropdown">
                                     <li><a href="/pengumuman">Pengumuman</a></li>
                                 </ul>
-                            </li>
+                            </li> --}}
                             <li><a href="#contact">Contact</a></li>
                             <li><a href="#aboutus">About Us</a></li>
                         </ul>
