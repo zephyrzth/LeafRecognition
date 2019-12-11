@@ -92,5 +92,6 @@
     <script src="{{ asset('essence/js/classy-nav.min.js') }}"></script>
     <!-- Active js -->
     <script src="{{ asset('essence/js/active.js') }}"></script>
+    @yield('moreJS')
 </body>
 </html>
