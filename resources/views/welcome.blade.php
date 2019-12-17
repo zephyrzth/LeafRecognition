@@ -6,7 +6,17 @@
         <div class="row">
             <div class="col-12 col-md-6 col-lg-5 ml-lg-auto">
                 <div class="order-details-confirmation">
-                    <span id="output"></span>
+                    <h3 id="output"></h3>
+                    <label for="nama_spesies">Nama Spesies:</label>
+                    <h6 style="text-align:justify;" id="nama_spesies"></h6><br>
+                    <label for="deskripsi">Deskripsi:</label>
+                    <p style="text-align:justify;" id="deskripsi"></p>
+                    <label for="habitat">Habitat:</label>
+                    <p style="text-align:justify;" id="habitat"></p>
+                    <label for="budidaya">Budidaya:</label>
+                    <p style="text-align:justify;" id="budidaya"></p>
+                    <label for="kegunaan">Kegunaan:</label>
+                    <p style="text-align:justify;" id="kegunaan"></p>
                 </div>
             </div>
             <div class="col-12 col-md-6 col-lg-5 ml-lg-auto">
